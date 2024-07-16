@@ -6,9 +6,9 @@ Developed a Power BI dashboard to analyze bank loan performance and credit risk.
 Enhanced the accuracy of credit risk evaluations using advanced analytics.
 Used Power BI and SQL insights to improve loan approval processes, resulting in a 10% increase in profitability.
 
-## Dashboard 1: Summary
+### Dashboard 1: Summary
 
-### Key Performance Indicators (KPIs) Requirements:
+#### Key Performance Indicators (KPIs) Requirements:
 - Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) 
 - Loan Applications and track changes Month-over-Month (MoM).
 Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
@@ -19,9 +19,9 @@ Average Interest Rate: Calculating the average interest rate across all loans, M
 
 ![Screenshot 2024-07-16 233410](https://github.com/user-attachments/assets/adef7ea0-7adb-4f98-b723-246b11524fe7)
 
-## Dashboard 2: Overview
+### Dashboard 2: Overview
 
-### CHARTS
+#### CHARTS
 - Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities
 - Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities
 - Loan Term Analysis (Donut Chart): To allow the client to understand the distribution of loans across various term lengths.
@@ -32,7 +32,7 @@ Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Tota
 
 ![Screenshot 2024-07-16 233259](https://github.com/user-attachments/assets/b1b3ead8-ddab-41c5-85bb-013715257eb1)
 
-## Dashboard 3: Details
+### Dashboard 3: Details
 
 #### GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
@@ -43,7 +43,7 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 ![Screenshot 2024-07-16 233322](https://github.com/user-attachments/assets/4993bfbf-c279-45af-8067-123838943c68)
 
 
-#### Data Source
+### Data Source
 
 Bank Loan Data: The primary dataset used for this analysis is the "financial_loan.csv" file, containing detailed information about the bank loan.
 
